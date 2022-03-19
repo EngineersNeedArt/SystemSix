@@ -1,0 +1,11 @@
+e-Paper/*
+bcm2835-1.60/*
+.vscode/*
+*__pycache__/*
+INK_EXPORT.bmp
+*.pyc
+*.cache/*
+settings.py
+info.log
+.idea/
+.DS_Store

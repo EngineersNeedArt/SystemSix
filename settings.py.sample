@@ -1,0 +1,12 @@
+LOCALE = "en_US.UTF-8"
+
+# Latitude and longitude to get local weather data.
+LATITUDE = 41.2523
+LONGITUDE = -95.9979
+
+# Monday = 1, ... Sunday = 7; None = never show trash full; other value = random trash day.
+TRASH_DAY = 1
+
+# Settings for retrieving calendar data, see README.md for details.
+WEBDAV_CALENDAR_URL = "webcal://..."
+WEBDAV_IS_APPLE = True

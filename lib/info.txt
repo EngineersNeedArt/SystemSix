@@ -1,0 +1,1 @@
+This libary is from waveshare: https://github.com/waveshare/e-Paper/tree/master/RaspberryPi_JetsonNano/python/lib/waveshare_epd
