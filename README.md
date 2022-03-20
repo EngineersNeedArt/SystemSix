@@ -29,6 +29,8 @@ It was wrtitten as a love-letter to my first Macintosh. Hopefully it is nostagli
 <img width="768" src="https://github.com/EngineersNeedArt/SystemSix/blob/cb6224a06ff2554a2e81abf078a4b30b270a5670/documentation/SystemSixDisplayed.jpeg" alt="SystemSix">
 </p>
 
+The display is [5.83" e-ink display](https://www.waveshare.com/5.83inch-e-paper.htm) from [Waveshare](https://www.waveshare.com).
+   
 More (exhaustive) details on how SystemSix was created are [on my blog](https://www.engineersneedart.com/systemsix/systemsix.html).
 
 
