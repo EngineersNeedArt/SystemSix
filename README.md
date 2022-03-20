@@ -8,7 +8,7 @@ To be clear, despite how it looks, it is not interactive. It changes every day t
 It was wrtitten as a love-letter to my first Macintosh. Hopefully it is nostaglic, somewhat informative, and fun.
 
 <p align="center">
-<img src="https://github.com/EngineersNeedArt/SystemSix/blob/b6b3806b4b2d4c8cb6e2403530a1b5cb77dc6ed3/DisplaySample.png" alt="SystemSix screenshot.">
+<img src="https://github.com/EngineersNeedArt/SystemSix/blob/10f2332b5c11dc4a585dd9fe9dbc258d303cf0ba/documentation/DisplaySample.png" alt="SystemSix screenshot.">
 </p>
 
 ### Features
