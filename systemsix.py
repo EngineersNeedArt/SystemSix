@@ -25,7 +25,8 @@ art_icons = ["icon_art0.bmp", "icon_art1.bmp", "icon_art2.bmp",
 
 dev_icons = ["icon_dev0.bmp", "icon_dev1.bmp", "icon_dev2.bmp",
              "icon_dev3.bmp", "icon_dev4.bmp", "icon_dev5.bmp",
-             "icon_dev6.bmp", "icon_dev7.bmp", "icon_dev8.bmp"]
+             "icon_dev6.bmp", "icon_dev7.bmp", "icon_dev8.bmp", 
+             "icon_dev9.bmp"]
 
 game_icons = ["icon_game0.bmp", "icon_game1.bmp", "icon_game2.bmp",
               "icon_game3.bmp", "icon_game4.bmp", "icon_game5.bmp",
