@@ -332,7 +332,7 @@ def update_display(period: str):
 
     try:
         # Prepare image and drawing context.
-        ink_image = Image.open(os.path.join(ARTWORK_DIR, "blank.bmp"))
+        ink_image = Image.new(mode="RGBA", size=(648, 480), color='white')
         ink_draw = ImageDraw.Draw(ink_image)
 
         # Render the Desktop to image.
@@ -428,7 +428,7 @@ def period_for_hour(hour: int):
     # Find the period we have started within.
     if hour == 0:
         return "MIDNIGHT"
-    elif hour == 4:
+    elif hour == 5:
         return "MORNING"
     elif hour == 17:
         return "EVENING"
@@ -438,7 +438,7 @@ def period_for_hour(hour: int):
 
 def nearest_period_for_hour(hour: int):
     # Find the period we have started within.
-    if hour < 4:
+    if hour < 5:
         return "MIDNIGHT"
     elif hour < 17:
         return "MORNING"
