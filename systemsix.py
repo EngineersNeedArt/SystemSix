@@ -53,11 +53,16 @@ game_icons = ["icon_game0.bmp", "icon_game1.bmp", "icon_game2.bmp",
               "icon_game66.bmp", "icon_game67.bmp", "icon_game68.bmp",
               "icon_game69.bmp", "icon_game70.bmp", "icon_game71.bmp",
               "icon_game72.bmp", "icon_game73.bmp", "icon_game74.bmp",
-              "icon_game75.bmp", "icon_game76.bmp"]
+              "icon_game75.bmp", "icon_game76.bmp", "icon_game77.bmp",
+              "icon_game78.bmp", "icon_game79.bmp", "icon_game80.bmp",
+              "icon_game81.bmp", "icon_game82.bmp", "icon_game83.bmp",
+              "icon_game84.bmp", "icon_game85.bmp", "icon_game86.bmp",
+              "icon_game87.bmp", "icon_game88.bmp"]
 
 office_icons = ["icon_office0.bmp", "icon_office1.bmp", "icon_office2.bmp",
                 "icon_office3.bmp", "icon_office4.bmp", "icon_office5.bmp",
-                "icon_office6.bmp", "icon_office7.bmp"]
+                "icon_office6.bmp", "icon_office7.bmp", "icon_office8.bmp",
+                "icon_office9.bmp"]
 
 system_icons = ["icon_sys0.bmp", "icon_sys1.bmp", "icon_sys2.bmp",
                 "icon_sys3.bmp", "icon_sys4.bmp", "icon_sys5.bmp",
