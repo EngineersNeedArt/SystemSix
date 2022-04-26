@@ -58,13 +58,13 @@ This says that 60 seconds after booting, the computer will run the shell script 
 
 ### Settings
 
-"Trash day" is defined in `Settings.py` as an integer. Set the value to `1` for Monday, `2` for Tuesday, etc. Setting the value to `None` will cause the trash to never be shown full. Set to any other value to indicate that "trash day" should be random.
+"Trash day" is defined in `settings.py` as an integer. Set the value to `1` for Monday, `2` for Tuesday, etc. Setting the value to `None` will cause the trash to never be shown full. Set to any other value to indicate that "trash day" should be random.
 
-For the weather API I use, `LATITUDE` and `LONGITUDE` should be supplied in `Settings.py`. I query [api.weather.gov](api.weather.gov) to turn the LAT/LONG into an office ID and grid X and Y that weather.gov uses to retrieve local forecasts.
+For the weather API I use, `LATITUDE` and `LONGITUDE` should be supplied in `settings.py`. I query [api.weather.gov](api.weather.gov) to turn the LAT/LONG into an office ID and grid X and Y that weather.gov uses to retrieve local forecasts.
 
 To display your upcoming calendar events the settings and code are the same as the implementation from 13Bytes. I can only speak to my experiences with MacOS Calendar. `WEBDAV_IS_APPLE` I set to `True` and for `WEBDAV_CALENDAR_URL` I entered the URL to fetch my public calendar.
 
-Figuring out my calendar URL turned out to be a challenge. In the end I had to create a new calendar in Apple's Calendar app and make sure to mark it as *public*. Then I found the sharing affordance in Calendar and "shared" the calendar with myself (I emailed it to myself). The link in the email contained the (150+ character) URL that I was then able to paste into `Settings.py`. Mine started out like this: `webcal://p97-caldav.icloud.com/published/2/NDYyNT....`.
+Figuring out my calendar URL turned out to be a challenge. In the end I had to create a new calendar in Apple's Calendar app and make sure to mark it as *public*. Then I found the sharing affordance in Calendar and "shared" the calendar with myself (I emailed it to myself). The link in the email contained the (150+ character) URL that I was then able to paste into `settings.py`. Mine started out like this: `webcal://p97-caldav.icloud.com/published/2/NDYyNT....`.
 
 ### Technical
 
