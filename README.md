@@ -90,7 +90,7 @@ If all the fetches are happy, you are likely never to actually see the display u
 
 ### Esoterica
 
-Inspired of course by the early Macintosh (my first Apple computer was a Macintosh Plus, and I loved it). The display is not precisely 512 × 342 pixels as were the early "classic" Macs. There is no e-Ink dispay of this resolution. The 5.83" E-Ink display from Waveshare was close at 648 × 480.
+Inspired of course by the early Macintosh (my first Apple computer was a Macintosh Plus, and I loved it). The display is not precisely 512 × 342 pixels as were the early "classic" Macs. There is no e-Ink display of this resolution. The 5.83" E-Ink display from Waveshare was close at 648 × 480.
 
 Pixels on the e-ink display are right up to the edge where the metal of the panel meets. I found that if I presented content right up to the edges I could not easily attach a plastic bezel that would hide the metal trim of the panel without obscuring some of the pixels. For that reason I intentionally left a "letterbox", black padding pixels (or a matte if you prefer) on all four sides of the content.
 
